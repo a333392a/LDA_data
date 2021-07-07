@@ -1,2 +1,2 @@
 # BecDep
-test
+Lda_data
